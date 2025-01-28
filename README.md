@@ -18,9 +18,9 @@
 
 ## 🚀 Featured Projects  
 
-- 🏥 **[Parkinson’s Disease Prediction](https://github.com/bramhaaa/Parkinsons-Prediction)** – AI model predicting Parkinson's based on patient data  
-- 💰 **[Expense Manager App](https://github.com/bramhaaa/Expense-Manager)** – Full-stack web & mobile app for tracking shared expenses  
-- 🤖 **[Portfolio Chatbot](https://github.com/bramhaaa/Portfolio-AI)** – AI-powered chatbot that emulates me using RAG  
+- 🏥 **[Parkinson’s Disease Prediction](https://github.com/Bramhaaa/Parkinsons_predictor)** – AI model predicting Parkinson's based on patient data  
+- 💰 **[Expense Manager App](https://github.com/bramhaaa/udhaari_app_react)** – Full-stack web & mobile app for tracking shared expenses  
+- 🤖 **[Portfolio Chatbot](https://github.com/bramhaaa/Portfolio_react)** – AI-powered chatbot that emulates me using RAG  
 
 ---
 
