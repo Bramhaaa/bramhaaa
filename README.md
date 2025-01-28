@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there! 👋 I'm Bramha  
 
-<!--
-**Bramhaaa/bramhaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Engineering Student at BMSCE**   
+💡 Exploring **AI, Full-Stack Development, and Game Development**  
+🚀 Currently building an **Expense Management App** with Django & React Native  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack  
+
+- **Languages**: C++, Python, JavaScript, SQL  
+- **Backend**: Django, Node.js  
+- **Frontend**: React, React Native  
+- **Databases**: MySQL, NoSQL (MongoDB)  
+- **Game Dev**: Unity, Unreal Engine   
+
+---
+
+## 🚀 Featured Projects  
+
+- 🏥 **[Parkinson’s Disease Prediction](https://github.com/bramhaaa/Parkinsons-Prediction)** – AI model predicting Parkinson's based on patient data  
+- 💰 **[Expense Manager App](https://github.com/bramhaaa/Expense-Manager)** – Full-stack web & mobile app for tracking shared expenses  
+- 🤖 **[Portfolio Chatbot](https://github.com/bramhaaa/Portfolio-AI)** – AI-powered chatbot that emulates me using RAG  
+
+---
+
+## 📊 GitHub Stats  
+
+![Bramha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=bramhaaa&show_icons=true&theme=tokyonight)  
+
+---
+
+## 🔥 Streaks  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bramhaaa&theme=tokyonight)  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/bramhabajannavar)   
