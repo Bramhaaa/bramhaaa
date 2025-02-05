@@ -35,6 +35,8 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=bramhaaa&theme=tokyonight)
 
 ---
+---
+---
 
 ## 📫 Connect with Me  
 
