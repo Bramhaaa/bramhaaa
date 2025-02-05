@@ -32,7 +32,7 @@
 
 ## 🔥 Streaks  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bramhaaa&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=bramhaaa&theme=tokyonight)
 
 ---
 
