@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Engineering Student at BMSCE**   
 💡 Exploring **AI, Full-Stack Development, and Game Development**  
-🚀 Currently building an **Expense Management App** with Django & React Native  
+🚀 Currently building an **Expense Management App** with Django & Flutter
 
 ---
 
