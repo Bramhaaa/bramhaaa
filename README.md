@@ -7,7 +7,7 @@
 Software Developer focused on building scalable applications, AI-powered tools, and solving algorithmic problems.
 
 <p>
-  <a href="https://bramhabajannavar.vercel.app">
+  <a href="https://bramhabajannavar.dev">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?style=for-the-badge" />
   </a>
   <a href="https://linkedin.com/in/bramhabajannavar">
@@ -59,7 +59,6 @@ Software Developer focused on building scalable applications, AI-powered tools, 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ### AI / ML
