@@ -12,11 +12,7 @@
 - Interested in backend engineering, distributed systems, and applied AI/ML.
 - Enjoy building projects that combine software engineering with practical problem-solving.
 
-## Project Galaxy
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=bramhaaa&theme=github-dark&mode=dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184844389%3Fu%3D1d93286a129b7c03e4275777bdd47bb9dbaa8c1c%26v%3D4" alt="Bramha's GitHub Galaxy" width="100%" />
-</p>
 
 ## Featured Projects
 
